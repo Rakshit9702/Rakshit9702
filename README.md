@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit Singhvi</h1>
-<h3 align="center">Google Intern | CSE Final Year</h3>
+<h3 align="center">CSE Final Year</h3>
 
-- 🏢 **Ex-Software Engineering Intern at Google**
-- 🌱 I’m currently learning **Data Structures and Program Design**
+- 🏢 **Interned at Google**
 - 📫 How to reach me **rakshitsinghvi2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
